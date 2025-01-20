@@ -13,7 +13,7 @@ Used Database:      MySQL
 
 Interface Design:    JQuery, bootstrap JavaScript, HTML, Ajax,
 
-Browser:                  Google Chrome IE8, Opera Mozilla
+Browser:                  Google Chrome IE8, Opera Mozilla ...
 
 Software:                 WAMP/ XAMPP/ LAMP/MAMP
 
